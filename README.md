@@ -1,4 +1,5 @@
 # Stable Fluids
+Jos Stam's Stable Fluids in openFrameworks.
 
 ## Screenshot
 ![result](https://github.com/rystylee/StableFluids/blob/master/ScreenShot1.png)
